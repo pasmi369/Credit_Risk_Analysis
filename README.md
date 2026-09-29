@@ -16,7 +16,7 @@ The purpose of this analysis was to create a supervised machine learning model t
   - Easy Ensemble Classifying
   
 Through each of these methods, I split my data using the resampled data to train and test a logistic regression model. Also, calculated balanced accuracy scores then printed confusion matrix and finally generated classification reports as my results.
-### Split Data into Trainingand Testing
+### Split Data into Training and Testing
 ![split_training_testing](./Module-17-Challenge-Resources/Resources/split_training_testing.png)
 
 ## Results
